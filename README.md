@@ -1,4 +1,6 @@
-# I'm Phone Myat Pyae Sone
+# Hi 👋, I'm Phone Myat Pyae Sone
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${PhoneMyatPyaeSone})
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhoneMyatPyaeSone&langs_count=8)](https://github.com/PhoneMyatPyaeSone/github-readme-stats)
 
