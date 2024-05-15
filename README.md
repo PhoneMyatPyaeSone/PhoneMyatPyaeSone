@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/phonemyatpyaes4" target="blank"><img src="https://img.shields.io/twitter/follow/phonemyatpyaes4?logo=twitter&style=for-the-badge" alt="phonemyatpyaes4" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Laravel**
 
-- 💬 Ask me about **HTML,CSS**
+- 💬 Ask me about **HTML,CSS, JavaScript, Bootstrap, JQuery, Python**
 
 - 📫 How to reach me **phonemyat.developer@gmail.com**
 
